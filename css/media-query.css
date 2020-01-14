@@ -27,7 +27,7 @@
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
   .titulo-contato{
     font-size: 13px;
   }
@@ -35,10 +35,10 @@
     font-size: 12px;
   }
   .logo-img{
-    width: 16px;
+    width: 20px;
   }
   .col-img{
-    padding: 0px 8px;
+    padding: 0px 7px;
   }
 }
 
