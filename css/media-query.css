@@ -27,6 +27,59 @@
   }
 }
 
+@media screen and (max-width: 330px) {
+  .info-lateral{
+   font-size: 13px;
+  }
+  .lado-esq{
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  h2{
+    font-size: 14px;
+  }
+  h3{
+    font-size: 1.25rem;
+   }
+  .logo-img{
+    width: 15px;
+
+  }
+  .col-img{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  h5{
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  
+  .titulo-contato{
+    font-size: 12px;
+  }
+  .p-contato{
+    font-size: 11px;
+  }
+  article{
+    font-size: 14px;
+  }
+  h3{
+    font-size: 1.5rem;
+  }
+  h5{
+    font-size: 1.2rem;
+  }
+  .col-img{
+    padding-right: 4px;
+    padding-left: 4px;
+  }
+  .logo-img{
+    width: 17px;
+  }
+}
+
 @media screen and (min-width: 600px) {
   .titulo-contato{
     font-size: 13px;
