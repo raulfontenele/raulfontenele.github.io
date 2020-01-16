@@ -28,7 +28,6 @@ input{
 }
 
 .lado-dir{
-    /*background-color: rgba(242, 242, 242, 0.404);*/
     background-color:rgba(255, 255, 255, 0.84);
     padding: 0px 15px;
     text-align: justify;
@@ -71,7 +70,7 @@ h5{
 .info-lateral{
     font-size: 1;
 }
-
-.barra-prog{
-    background-color: rgba(0, 0, 0, 0.788);
+.col-itens{
+    padding-right: 7px;
+    padding-left: 7px;
 }
